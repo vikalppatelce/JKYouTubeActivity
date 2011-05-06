@@ -1,6 +1,6 @@
 # JKYouTubeActivity
 
-JKYouTubeActivity is a simple Android activity to load YouTube videos into a VideoView using their RTSP url. Exception handling could be better, but for not it is what it is.
+JKYouTubeActivity is a simple Android activity to load YouTube videos into a VideoView using their RTSP url. Exception handling could be better, but for now it is what it is.
 
 ## Usage
 
